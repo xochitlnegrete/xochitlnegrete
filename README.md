@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xochitlnegrete
 - 👀 I’m interested in Backend Development and Data Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning to implement SpringBoot Framework with DynamoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
